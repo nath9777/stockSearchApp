@@ -1,0 +1,73 @@
+/*setting min height of page*/
+.app-container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Search Input Section */
+.custom-input-group {
+    width: 300px;
+}
+
+/*Nav bar Active*/
+.navbar-nav .nav-link.active {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.border-primary {
+    border-color: #1d279d !important;
+}
+
+.form-control:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.footer {
+    background-color: #d8d8d8 !important;
+}
+
+.btn-color-1 {
+    color: #1d279d !important;
+}
+
+.nav-tabs {
+    border: 0 !important;
+}
+
+
+.active {
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+
+/*Tab Nav CSS*/
+.tab-data-container {
+    display: flex;
+}
+
+.leftHalf {
+    margin: 20px;
+    flex: 1;
+}
+
+.leftHalfUpper {
+    margin-bottom: 30px;
+}
+
+.leftHalfLower {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
