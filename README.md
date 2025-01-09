@@ -18,13 +18,16 @@ The Watchlist and Portfolio tabs can be used to monitor, buy/sell stocks, and ma
 5. This application make use of Finnhub and Polygon API's for stock data, and HighCharts for all charts used.
 
 
-# Google Cloud Link to Application
-https://atul-webtech-final-3.wl.r.appspot.com/search/home
+# Google Cloud Link to Application (INACTIVE)
+https://atul-webtech-final-3.wl.r.appspot.com/search/home (INACTIVE)
 
+# Hosted on Render (LIVE)
+https://stocksearchapp-render.onrender.com
 
 ### NOTE
 I have excluded the node modules from the backend and frontend and the build directory as well.
 This repository primarily includes React and Node/Express Source Code only with package.json dependancies.
-The application can be accessed via the gcp link provided above.
+The application can be accessed via the Render link provided above.
+
 
 
